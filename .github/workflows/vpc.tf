@@ -1,4 +1,4 @@
-# main.tf file1
+# main.tf file
 provider "aws" {
   region = "us-east-1" 
 }
